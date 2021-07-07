@@ -1,7 +1,7 @@
 # NOTER #
 
 Noter is a software for **recording audio contents** and **make a 3d graph of the cooccurrence matrix**.
-***
+
 ### ENVIRONMENT
 * MacOS Big Sur 11.4
 * Python 3.8.7
