@@ -1,5 +1,5 @@
 # NOTER #
-***
+
 Noter is a software for **recording audio contents** and **make a 3d graph of the cooccurrence matrix**.
 ***
 ### ENVIRONMENT
